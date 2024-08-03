@@ -1,0 +1,9 @@
+{
+	"name": "adf-henrypham",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d69b9d4-2d4f-4fed-9d3e-579737550a8a",
+		"tenantId": "e0d7f9c6-e0ee-4465-81a7-c603a16c113e"
+	}
+}
